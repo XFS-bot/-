@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/springbootdry73n0g/out/artifacts/springbootdry73n0g_war_exploded/out/artifacts/springbootdry73n0g_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/out/artifacts/springbootdry73n0g_war_exploded/out/artifacts/springbootdry73n0g_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/src/main/java" />
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/springbootdry73n0g/out/artifacts/springbootdry73n0g_war_exploded/out/artifacts/springbootdry73n0g_war_exploded/out/artifacts/springbootdry73n0g_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/out/artifacts/springbootdry73n0g_war_exploded/out/artifacts/springbootdry73n0g_war_exploded/out/artifacts/springbootdry73n0g_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/src/main/java" />
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/springbootdry73n0g/out/artifacts/springbootdry73n0g_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/out/artifacts/springbootdry73n0g_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/src/main/java" />
+          <root url="file://$MODULE_DIR$/springbootdry73n0g/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+</module>
